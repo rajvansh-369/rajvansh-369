@@ -2,7 +2,7 @@
 
 ## Skills 🎯
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,python,js,wordpress,jquery,html,css,bootstrap,mysql,git,arduino)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,python,js,wordpress,jquery,html,css,bootstrap,mysql,git,arduino)(https://github.com/rajvansh-369/)
 
 ## Let's Connect 🔗 
 
