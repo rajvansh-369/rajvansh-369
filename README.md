@@ -23,20 +23,15 @@
 <!-- <br/>   -->
 
 </div>
-<!-- ## Recent Blog Posts   -->
-  
 
-<br/>  
 
-<br/>  
 <br>
-<div align="center">
+<br>
 
-</div>  
 
 ## Github Streak ⚡
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvansh-369&theme=tokyonight" alt="mystreak"  align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvansh-369&theme=tokyonight" alt="mystreak"  />
   </div>  
   
