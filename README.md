@@ -15,23 +15,18 @@
 <br>
 
 ## Github Stats 📈
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=steve-369&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-369&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=steve-369&show_icons=true&count_private=true&hide_border=true"  />  
 
-<!-- <br/>   -->
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-369&hide_border=true&layout=compact" />  
 
 
-<br>
-<br>
 
 
-## Github Streak ⚡
 
 <div align="center">
+  
+  ## Github Streak ⚡
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvansh-369&theme=tokyonight" alt="mystreak"  />
   </div>  
   
