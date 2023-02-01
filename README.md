@@ -16,11 +16,9 @@
 
 ## Github Stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=steve-369&show_icons=true&count_private=true&hide_border=true"  />  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajvansh-369&show_icons=true&locale=en&layout=compact" alt="rajvansh-369" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-369&hide_border=true&layout=compact" />  
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajvansh-369&show_icons=true&locale=en" alt="rajvansh-369" /></p>
 
 
 
