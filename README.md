@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/snehal-raj-7373bb14b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Snehal Raj"></a>
 <a href="https://www.instagram.com/snehal_rajvansh_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Snehal"></a>
-<a href="https://uxdesigns.in/snehal/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?&style=flat-square&logo=&logoColor=white" alt="Snehal"></a>
+<a href="https://snehal.info/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?&style=flat-square&logo=&logoColor=white" alt="Snehal"></a>
 <a>
 <img src="https://komarev.com/ghpvc/?username=steve-369&&style=flat-square" />
 </a>
